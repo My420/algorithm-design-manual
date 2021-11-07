@@ -1,0 +1,23 @@
+{
+  "name": "algorithm-design-manual",
+  "version": "1.0.0",
+  "description": "solving problems from book 'The Algorithm Design Manual' by Steven Skiena",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [
+    "The Algorithm Design Manual",
+    "algorithm",
+    "Steven Skiena"
+  ],
+  "author": "Klinovitsky Aleksey",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "fast-check": "^2.19.0",
+    "jest": "^27.3.1",
+    "ts-jest": "^27.0.7",
+    "typescript": "^4.4.4"
+  }
+}

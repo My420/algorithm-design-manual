@@ -1,0 +1,1 @@
+# Solving problems from book 'The Algorithm Design Manual' by Steven Skiena
