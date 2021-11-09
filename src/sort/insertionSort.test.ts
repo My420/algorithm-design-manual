@@ -1,6 +1,6 @@
 import fc from "fast-check";
 import { insertionSort } from "./insertionSort";
-// const { performance } = require("perf_hooks");
+const { performance } = require("perf_hooks");
 
 describe("Test insertionSort function", () => {
   test("should produce an ordered array", () => {
